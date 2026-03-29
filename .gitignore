@@ -1,0 +1,10 @@
+__pycache__/
+*.db
+.env
+.idea/
+.vscode/
+
+# Ignore the image files from testing
+*.jpeg
+*.png
+*.jpg
