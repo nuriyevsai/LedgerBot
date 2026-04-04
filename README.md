@@ -22,8 +22,7 @@ A powerful, feature-rich personal finance tracker built entirely within Telegram
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/tgbot-finance.git
-cd tgbot-finance
++ git clone https://github.com/nuriyevsai/tgbot-finance.git
 ```
 
 ### 2. Install Dependencies
